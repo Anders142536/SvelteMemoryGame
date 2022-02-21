@@ -37,7 +37,7 @@ body > div {
 	align-items: center;
 }
 
-p#points {
+.points {
 	margin: 0 20px 0 0;
 	min-width: 50px;
 	text-align: right;
@@ -61,7 +61,7 @@ h1 {
 }
 
 /* the div with the id "board" */
-#board {
+.board {
 	display: grid;
 	grid-template-columns: auto auto auto auto;
 	gap: 10px 10px;
